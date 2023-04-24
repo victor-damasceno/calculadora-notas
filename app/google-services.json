@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "921727570098",
+    "project_id": "calculadora-de-notas-112a4",
+    "storage_bucket": "calculadora-de-notas-112a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921727570098:android:cdb4f71e6010daf098b9ab",
+        "android_client_info": {
+          "package_name": "com.example.calculadoradenotas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921727570098-6j90mf1r2ucrnfc5r2m476c126538kqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqCRO73wmuS4cgrLyIFEySH1bJ6_4ztwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921727570098-6j90mf1r2ucrnfc5r2m476c126538kqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
